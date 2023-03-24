@@ -1,0 +1,18 @@
+body{
+    background-image: url(../IMG/QR8.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+}
+
+h1{
+    color:aliceblue;
+    text-align: center;
+}
+
+
+p{
+    font-size:20px;
+}
